@@ -136,7 +136,9 @@ body{
 }
 .workflow_moji{
   padding-top: 20px;
-  padding-left: 30px;
+}
+.workflow_moji h3{
+  text-align: center;
 }
 .flex{
   display: flex;
